@@ -43,7 +43,7 @@
 
 ## ⚡ Example
 
-In the `Projeto_aula7.ipynb` notebook, you’ll find examples of how to train a sales prediction model and make product recommendations using neural networks. The code is well-commented to make it easy to understand! ✨
+In the `app.py.ipynb` notebook, you’ll find examples of how to train a sales prediction model and make product recommendations using neural networks. The code is well-commented to make it easy to understand! ✨
 
 ## 🤝 Contributing
 
